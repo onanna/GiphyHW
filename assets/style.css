@@ -1,0 +1,47 @@
+/* *{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} */
+
+
+.header {
+    
+    text-align:center;
+    
+    
+
+}
+.animal-btn{
+    padding: 15px 20px;
+}
+
+#giphy-form{
+    margin: 10px;
+    font-size:20px;
+    color: white;
+}
+
+#add-giphy {
+    margin-left: 152px;
+    margin-top:5px;
+   font-size: 15px;
+   border: gold solid 1px;
+   background: radial-gradient(white,lightgrey);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.which{
+color: white;
+}
+
+.animal{
+    color:white;
+    float: left;
+    
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    margin: 4px;
+
+}
